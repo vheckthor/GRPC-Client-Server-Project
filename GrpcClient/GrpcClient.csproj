@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\learngrpc\learngrpc.csproj" />
+    <ProjectReference Include="..\learngrpc\GRPCServer.csproj" />
   </ItemGroup>
 
   <ItemGroup>
